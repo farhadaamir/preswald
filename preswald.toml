@@ -1,0 +1,7 @@
+[app]
+title = "U.S. State Finance Explorer"
+favicon = "favicon.ico"            # Upload this file in the left panel
+logo = "logo.png"                  # Optional: visible if using sidebar()
+primary_color = "#2E86AB"          # Accent color (nav/header/sidebar)
+background_color = "#f9f9f9"       # Optional: page background color
+text_color = "#1c1c1c"             # Optional: default font color
